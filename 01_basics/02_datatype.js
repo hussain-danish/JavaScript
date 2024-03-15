@@ -28,7 +28,7 @@ let state;
 // object
 
 console.log(typeof null )
-// console.log([typeof] Danish)
+console.log(typeof(Danish))
 
 
 
